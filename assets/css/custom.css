@@ -1,1 +1,24 @@
 /* Place custom css here */
+
+
+/* Inline code */
+code {
+    font-family: "Menlo", Consolas, Monaco, monospace;
+    font-size: 0.85em;
+    /* Reduced from normal text size */
+}
+
+/* Code blocks */
+pre code {
+    font-family: "Menlo", Consolas, Monaco, monospace;
+    font-size: 0.8em;
+    /* Even smaller for code blocks */
+    /* line-height: 1.4; */
+    /* Adjusted line height for readability */
+}
+
+
+/* For inline math */
+.katex-html {
+    font-size: 85%;
+}
