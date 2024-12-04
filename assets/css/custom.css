@@ -22,3 +22,12 @@ pre code {
 .katex-html {
     font-size: 85%;
 }
+
+::-moz-selection {
+    /* Code for Firefox */
+    background: #E6E6FA;
+}
+
+::selection {
+    background: #E6E6FA;
+}

@@ -1,4 +1,12 @@
 @font-face {
+    font-family: 'Menlo';
+    src: url('/fonts/Menlo/Menlo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Literata';
     src: url('/fonts/Literata/Literata-Light.woff2') format('woff2');
     font-weight: light;
@@ -42,14 +50,6 @@
     font-family: 'Monaspace';
     src: url('/fonts/Monaspace/MonaspaceArgon-SemiBold.woff') format('woff');
     font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Menlo';
-    src: url('/fonts/Menlo/Menlo-Regular.woff') format('woff');
-    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }

@@ -182,7 +182,7 @@ footer a {
 }
 
 .line-date {
-  font-size: smaller;
+  font-size: small;
   font-family: var(--font-mono);
   min-width: 120px;
   max-width: 120px;
